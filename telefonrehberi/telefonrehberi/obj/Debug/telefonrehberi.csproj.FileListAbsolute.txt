@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\bin\Debug\telefonrehberi.exe.config
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\bin\Debug\telefonrehberi.exe
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\bin\Debug\telefonrehberi.pdb
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.Form1.resources
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.Form2.resources
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.Properties.Resources.resources
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.exe
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.pdb
+C:\Users\hp\source\repos\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.Form3.resources
